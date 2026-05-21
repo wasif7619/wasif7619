@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Wasif Naeem<br><br>"Full Stack Developer"<br><br>React.js | Tailwind CSS | CSS | Node.js | Express.js | MySQL | SQL | PostgreSQL | MongoDB<br><br>🏆 Featured Project: "How Am I Driving?"<br><br>A complete driving behavior monitoring system with:<br>- Real-time over-speeding, hard braking & sharp turn detection<br>- Area-based speed limit enforcement<br>- Role-based access (Admin, User, Police)<br><br>**Built with:** React.js, Tailwind CSS, CSS, Node.js, Express.js, PostgreSQL, React Native<br><br>💻 Tech Stack<br><br>| Category | Technologies |<br><br>| Frontend | React.js, Tailwind CSS, CSS |<br>| Backend | Node.js, Express.js |<br>| Databases | MySQL, SQL, PostgreSQL, MongoDB |<br><br>📫 Let's Connect
 
 
